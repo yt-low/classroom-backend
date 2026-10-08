@@ -1,0 +1,13 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1791463697308,
+      "tag": "0000_perfect_raider",
+      "breakpoints": true
+    }
+  ]
+}
